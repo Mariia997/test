@@ -1,1 +1,3 @@
 -noPlagin
+django/mysite/.idea/*
+*.pyc
